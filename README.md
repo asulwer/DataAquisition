@@ -1,0 +1,1 @@
+Keep track of stock market data on your win8.1 phone.  save generated data to phone for historical purposes (can be loaded back in to program).  Graph is a realtime generated graph and not an image.  Companion windows version FeedParser in my repository.
